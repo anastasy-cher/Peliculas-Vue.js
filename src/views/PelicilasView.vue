@@ -1,10 +1,13 @@
 <template>
-  <h1>home</h1>
+  <h1>pelicula</h1>
 </template>
 
 <script>
-
 export default {
-  name: 'HomeView'
+
 }
 </script>
+
+<style>
+
+</style>
